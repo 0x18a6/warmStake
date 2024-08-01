@@ -1,10 +1,10 @@
-# StakeBridge 🥩
+# warmStake 🥩
 
 Stake. Earn. Bridge.
 
 # StakeBridge Platform
 
-Wormhole Staking Platform is a decentralized application built on Ethereum that allows users to stake their tokens and earn rewards. The platform uses a unique mechanism to incentivize longer staking periods by offering higher rewards for longer stakes. It also supports cross-chain transactions, enabling users to stake and withdraw tokens across different blockchains.
+warmStake is a decentralized application built on Ethereum that allows users to stake their tokens and earn rewards. The platform uses a unique mechanism to incentivize longer staking periods by offering higher rewards for longer stakes. It also supports cross-chain transactions, enabling users to stake and withdraw tokens across different blockchains.
 
 ## Features
 
